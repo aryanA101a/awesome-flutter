@@ -574,7 +574,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz).
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) [1563⭐] - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling).
 - [GitJournal](https://github.com/GitJournal/GitJournal) [855⭐] - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda).
-- [AuthPass](https://github.com/authpass/authpass) [502⭐] - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul).
+- [AuthPass](https://github.com/authpass/authpass) [502⭐] - Keypass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul).
 - [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) [977⭐] - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc).
 
 ## Utilities
